@@ -5,7 +5,7 @@ export default function Home() {
     <main>
            {/* Hero Section */}
            <section className="flex flex-col items-center justify-center bg-slate-100 py-20 text-center">
-        <h2 className="text-4xl font-bold mb-4">Welcome to My App</h2>
+        <h2 className="text-4xl font-bold mb-4">Welcome to the Admin Dashboard</h2>
         <p className="text-lg text-gray-700 mb-8">
           A powerful tool for managing users and moderating content effectively.
         </p>
