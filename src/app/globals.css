@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* src/styles/globals.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  background: #292929;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  color: #94a3b8;
+}
+
+.header nav a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.content-wrapper {
+  display: flex;
+  flex: 1;
+}
+
+.main-content {
+  flex: 1;
+  padding: 1rem;
+}
+
+.footer {
+  display: flex;
+  background: #292929;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
