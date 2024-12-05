@@ -90,4 +90,12 @@ You’ll be building a responsive admin dashboard for a social media application
 3. **🌐 API Integration**: Proper use of the provided API
 4. **📅 Completion**: Submission of both the GitHub and video links, with all features implemented
 
+   My solution:
+   <img width="1440" alt="Screenshot 2024-12-05 at 20 38 33" src="https://github.com/user-attachments/assets/aa817cad-a3d6-4e20-95f7-a164f50d285f">
+
+<img width="1440" alt="Screenshot 2024-12-05 at 20 35 02" src="https://github.com/user-attachments/assets/985cae37-7e8f-474b-93be-446d90e93caf">
+<img width="1440" alt="Screenshot 2024-12-05 at 20 35 02" src="https://github.com/user-attachments/assets/5b58c485-e34b-411d-9971-6d4b013b72a8">
+<img width="1440" alt="Screenshot 2024-12-05 at 20 35 51" src="https://github.com/user-attachments/assets/e90a73f6-2774-4f76-a476-b9a40384b17c">
+<img width="1440" alt="Screenshot 2024-12-05 at 20 36 05" src="https://github.com/user-attachments/assets/95a025e5-00a3-4922-94ea-2712cbd6c94d">
+
 Good luck, and happy coding! 🚀
