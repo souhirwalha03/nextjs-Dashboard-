@@ -98,4 +98,4 @@ You’ll be building a responsive admin dashboard for a social media application
 <img width="1440" alt="Screenshot 2024-12-05 at 20 35 51" src="https://github.com/user-attachments/assets/e90a73f6-2774-4f76-a476-b9a40384b17c">
 <img width="1440" alt="Screenshot 2024-12-05 at 20 36 05" src="https://github.com/user-attachments/assets/95a025e5-00a3-4922-94ea-2712cbd6c94d">
 
-Good luck, and happy coding! 🚀
+
