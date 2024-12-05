@@ -45,7 +45,7 @@ npm run dev
 ```
 ***Project Structure***
 
-
+```plaintext
 .
 ├── public/             
 ├── src/              
@@ -70,7 +70,7 @@ npm run dev
 ├── components/          
 ├── .env.local
 └── package.json        
-
+```
    <img width="1440" alt="Screenshot 2024-12-05 at 20 38 33" src="https://github.com/user-attachments/assets/aa817cad-a3d6-4e20-95f7-a164f50d285f">
 
 <img width="1440" alt="Screenshot 2024-12-05 at 20 35 02" src="https://github.com/user-attachments/assets/985cae37-7e8f-474b-93be-446d90e93caf">
